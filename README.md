@@ -1,16 +1,34 @@
-### Hi there 👋
+### 👋 Hi there! I'm Isha
+
+## About Me
+<ul>
+<li>I am a <b> Btech CSE undergraduate </b> at Bharati Vidyapeeth College of Engineering, New Delhi. 👩‍🎓</li>
+  <li>I have a keen interest in <b>Machine Learning and Deep Learning concepts 🤖</b>. I am currently learning more in the same area of interest 💻.</li>
+<li>I love to code 👩‍💻and also have shown my interest in <b>web 🖥 and android app development 📱.</b></li>
+  <li>I have experience in <b>non-technical</b> stuff as well including <b>content writing 🗒, social media marketing 📢, and blog writing ✍</b>.</li>
+  <li>I am also passionate about <b>teaching</b> 👩‍🏫. </li>
+  <li>My hobby includes <b>Sketching</b> ✍.</li>
+</ul>
+
+[Chick here to view my resume](https://www.canva.com/design/DAEBUeKGc7U/6WWbqB-jd7SPDFArRV3AHA/view?utm_content=DAEBUeKGc7U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) to know more about me.
+
+## Connect with Me
+<p align="center">
+<a href="https://myresume.bss.design/"><img src="https://img.shields.io/badge/-Isha Bansal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/isha-bansal-433514180/"><img src="https://img.shields.io/badge/-Isha%20Bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:isha.bansal1504@gmail.com"><img src="https://img.shields.io/badge/-isha.bansal1504@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/isha.bansal.7334504/"><img src="https://img.shields.io/badge/-@Isha Bansal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+## My Github Analysis
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=IshaBansal0408/IshaBansal0408)
 
 <!--
 **IshaBansal0408/IshaBansal0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
