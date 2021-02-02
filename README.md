@@ -1,4 +1,4 @@
-<img src="profile bar.png" width="match-parent">
+<img src="profile-bar.png" width="match-parent">
 
 ### 👋 Hi there! I'm Isha
 
