@@ -24,9 +24,8 @@
 
 ## My Github Analysis
 <p align="center">
-  
-  ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical)
-  <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
