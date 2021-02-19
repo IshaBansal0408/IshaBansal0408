@@ -16,7 +16,6 @@
 
 ## Connect with Me
 <p align="center">
-<a href="https://myresume.bss.design/"><img src="https://img.shields.io/badge/-Isha Bansal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/isha-bansal-433514180/"><img src="https://img.shields.io/badge/-Isha%20Bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:isha.bansal1504@gmail.com"><img src="https://img.shields.io/badge/-isha.bansal1504@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/isha.bansal.7334504/"><img src="https://img.shields.io/badge/-@Isha Bansal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -33,5 +32,5 @@
 
 <!--
 **IshaBansal0408/IshaBansal0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://myresume.bss.design/"><img src="https://img.shields.io/badge/-Isha Bansal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
