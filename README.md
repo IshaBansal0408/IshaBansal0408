@@ -14,6 +14,8 @@
 
 [Chick here to view my resume](https://www.canva.com/design/DAEBUeKGc7U/6WWbqB-jd7SPDFArRV3AHA/view?utm_content=DAEBUeKGc7U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) to know more about me.
 
+You can also [check out my blogs](https://valueml.com/author/bansalisha/)
+
 ## Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/isha-bansal-433514180/"><img src="https://img.shields.io/badge/-Isha%20Bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
