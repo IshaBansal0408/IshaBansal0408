@@ -25,7 +25,6 @@ You can also [check out my blogs](https://valueml.com/author/bansalisha/)
 ## My Github Analysis
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -36,4 +35,4 @@ You can also [check out my blogs](https://valueml.com/author/bansalisha/)
 <a href="https://myresume.bss.design/"><img src="https://img.shields.io/badge/-Isha Bansal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/isha.bansal.7334504/"><img src="https://img.shields.io/badge/-@Isha Bansal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
