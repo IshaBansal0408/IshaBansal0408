@@ -12,7 +12,7 @@
   <li>My hobby includes <b>Sketching</b> ✍.</li>
 </ul>
 
-[Chick here to view my resume](https://www.canva.com/design/DAEBUeKGc7U/6WWbqB-jd7SPDFArRV3AHA/view?utm_content=DAEBUeKGc7U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) to know more about me.
+[Check my website](https://isha-bansal.netlify.app/) to know more about me.
 
 For my blogs on Machine Learning and Deep Learning [Click here](https://valueml.com/author/bansalisha/)
 
