@@ -27,6 +27,7 @@ For my blogs on Python Programming Language [Click here](https://www.askpython.c
 ## My Github Analysis
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
