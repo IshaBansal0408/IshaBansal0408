@@ -32,7 +32,7 @@ For my blogs on Python Programming Language [Click here](https://www.askpython.c
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IshaBansal0408/IshaBansal0408)
+
 
 <!--
 **IshaBansal0408/IshaBansal0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,3 +40,5 @@ For my blogs on Python Programming Language [Click here](https://www.askpython.c
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/isha.bansal.7334504/"><img src="https://img.shields.io/badge/-@Isha Bansal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=8&theme=algolia"/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=IshaBansal0408/IshaBansal0408)
