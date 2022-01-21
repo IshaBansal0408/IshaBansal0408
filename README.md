@@ -1,4 +1,4 @@
-<img src="profile-bar.png" width="match-parent">
+
 
 ### 👋 Hi there! I'm Isha
 
@@ -35,6 +35,7 @@ For my blogs on Python Programming Language [Click here](https://www.askpython.c
 
 
 <!--
+<img src="profile-bar.png" width="match-parent">
 **IshaBansal0408/IshaBansal0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://myresume.bss.design/"><img src="https://img.shields.io/badge/-Isha Bansal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
