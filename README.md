@@ -11,9 +11,9 @@
   <li>I am also passionate about <b>teaching</b> 👩‍🏫. </li>
   <li>My hobby includes <b>Sketching</b> ✍.</li>
   <li><a href="https://isha-bansal.netlify.app/"> Check my website </a> to know more about me.</li>
-  <li>For my blogs on Machine Learning and Deep Learning  : <a href=["https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
+  <li>For my blogs on Machine Learning and Deep Learning  : <a href="https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
   <li>For my blogs on Python Programming Language : <a href="https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
-  </li>For some more blogs on Python  : <a href="[https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
+  </li>For some more blogs on Python  : <a href="https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
 </ul>
 
 ## Connect with Me
