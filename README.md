@@ -16,17 +16,18 @@
   </li>For some more blogs on Python  : <a href="[https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
 </ul>
 
-
-
-
-
-
 ## Connect with Me
 <p align="center">
   <a href="mailto:isha.bansal1504@gmail.com"><img height=30em" src="https://img.shields.io/badge/-isha.bansal1504@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:bansalisha867@gmail.com"><img height=30em" src="https://img.shields.io/badge/-bansalisha867@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <br>
   <a href="https://www.linkedin.com/in/isha-bansal-433514180/"><img height=30em" src="https://img.shields.io/badge/-Isha%20Bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://isha-bansal.netlify.app/"><img height=30em" src="https://img.shields.io/badge/-My Portfolio Website-0077B5?style=flat&logo=GoogleChrome&logoColor=white"/></a>
-  <a href="mailto:bansalisha867@gmail.com"><img height=30em" src="https://img.shields.io/badge/-bansalisha867@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://isha-bansal.netlify.app/"><img height=30em" src="https://img.shields.io/badge/My Portfolio Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
+  <br>
+  <a href="https://www.hackerrank.com/isha_bansal0408"><img height="30em"src="https://img.shields.io/badge/-My HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://leetcode.com/IshaBansal0408/"><img height="30em"src="https://img.shields.io/badge/My LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+  
+  
 </p>
 
 <hr>
