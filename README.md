@@ -29,7 +29,7 @@
   <a href="https://leetcode.com/IshaBansal0408/"><img height="30em"src="https://img.shields.io/badge/My LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a> 
 </p>
 
-<h2>:fire: My Stats:</h2>
+<h2>:fire: My GitHub Stats:</h2>
 <p align="center">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=IshaBansal0408&theme=dark&hide_border=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
