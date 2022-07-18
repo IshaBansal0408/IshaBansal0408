@@ -10,7 +10,7 @@
   <li>I have experience in <b>non-technical</b> stuff as well including <b>content writing 🗒, social media marketing 📢, and blog writing ✍</b>.</li>
   <li>I am also passionate about <b>teaching</b> 👩‍🏫. </li>
   <li>My hobby includes <b>Sketching</b> ✍.</li>
-  <li>[Check my website](https://isha-bansal.netlify.app/) to know more about me.</li>
+  <li><a href="https://isha-bansal.netlify.app/"> Check my website </a> to know more about me.</li>
   <li>For my blogs on Machine Learning and Deep Learning  : <a href=["https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
   <li>For my blogs on Python Programming Language : <a href="https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
   </li>For some more blogs on Python  : <a href="[https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
