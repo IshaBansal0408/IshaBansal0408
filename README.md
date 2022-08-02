@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/isha-bansal-433514180/"><img height=30em" src="https://img.shields.io/badge/-Isha%20Bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://isha-bansal.netlify.app/"><img height=30em" src="https://img.shields.io/badge/My Portfolio Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
   <br>
-  <a href="https://www.hackerrank.com/isha_bansal0408"><img height="30em"src="https://img.shields.io/badge/-My HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://leetcode.com/IshaBansal0408/"><img height="30em"src="https://img.shields.io/badge/My LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a> 
+<!--  <a href="https://www.hackerrank.com/isha_bansal0408"><img height="30em"src="https://img.shields.io/badge/-My HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://leetcode.com/IshaBansal0408/"><img height="30em"src="https://img.shields.io/badge/My LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a> -->
 </p>
 
 <h2>:fire: My GitHub Stats:</h2>
