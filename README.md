@@ -5,7 +5,7 @@
 <h2> :woman_technologist: About Me</h2>
 
 <ul>
-<li>I am a <b> Btech CSE undergraduate </b> at Bharati Vidyapeeth College of Engineering, New Delhi. 👩‍🎓</li>
+<li>I am a <b> Btech CSE graduate </b> from Bharati Vidyapeeth College of Engineering, New Delhi. 👩‍🎓</li>
   <li>I have a keen interest in <b>Machine Learning and Deep Learning concepts 🤖</b>. I am currently learning more in the same area of interest 💻.</li>
 <li>I love to code 👩‍💻and also have shown my interest in <b>web 🖥 and android app development 📱.</b></li>
   <li>I have experience in <b>non-technical</b> stuff as well including <b>content writing 🗒, social media marketing 📢, and blog writing ✍</b>.</li>
