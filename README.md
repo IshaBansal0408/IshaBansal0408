@@ -31,6 +31,6 @@
 <h2>:fire: My GitHub Stats:</h2>
 <p align="center">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=IshaBansal0408&theme=dark&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&theme=vision-friendly-dark"/>
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&theme=vision-friendly-dark"/> -->
 </p>
