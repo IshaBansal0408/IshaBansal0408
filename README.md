@@ -1,36 +1,85 @@
-<img src="profile-bar.png" width="match-parent">
-
-### 👋 Hi there! I'm Isha
-
-<h2> :woman_technologist: About Me</h2>
-
-<ul>
-<li>I am a <b> Btech CSE graduate </b> from Bharati Vidyapeeth College of Engineering, New Delhi. 👩‍🎓</li>
-  <li>I have a keen interest in <b>Machine Learning and Deep Learning concepts 🤖</b>. I am currently learning more in the same area of interest 💻.</li>
-<li>I love to code 👩‍💻and also have shown my interest in <b>web 🖥 and android app development 📱.</b></li>
-  <li>I have experience in <b>non-technical</b> stuff as well including <b>content writing 🗒, social media marketing 📢, and blog writing ✍</b>.</li>
-  <li>I am also passionate about <b>teaching</b> 👩‍🏫. </li>
-  <li>My hobby includes <b>Sketching</b> ✍.</li>
-  <li><a href="https://isha-bansal.netlify.app/"> Check my website </a> to know more about me.</li>
-  <li>For my blogs on Machine Learning and Deep Learning  : <a href="https://valueml.com/author/bansalisha/" target="_blank"> Click here</a>!</li>
-  <li>For my blogs on Python Programming Language : <a href="https://www.askpython.com/author/isha" target="_blank"> Click here</a>!</li>
-</ul>
-
-<h2> :handshake: Connect with Me</h2>
+<!-- Header Image -->
 <p align="center">
-  <a href="mailto:isha.bansal1504@gmail.com"><img height=30em" src="https://img.shields.io/badge/-isha.bansal1504@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="mailto:bansalisha867@gmail.com"><img height=30em" src="https://img.shields.io/badge/-bansalisha867@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <br>
-  <a href="https://www.linkedin.com/in/isha-bansal-433514180/"><img height=30em" src="https://img.shields.io/badge/-Isha%20Bansal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://isha-bansal.netlify.app/"><img height=30em" src="https://img.shields.io/badge/My Portfolio Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
-  <br>
-<!--  <a href="https://www.hackerrank.com/isha_bansal0408"><img height="30em"src="https://img.shields.io/badge/-My HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://leetcode.com/IshaBansal0408/"><img height="30em"src="https://img.shields.io/badge/My LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a> -->
+  <img src="profile-bar.png" width="100%" alt="Header Bar"/>
 </p>
 
-<h2>:fire: My GitHub Stats:</h2>
+# Hi, I'm Isha Bansal 👋
+
+### Software Engineer | ML Researcher | Blogger | Sketch Artist
+
+---
+
+## About Me
+
+## About Me
+
+<div style="display: flex; align-items: flex-start; gap: 1rem;">
+
+<div style="flex: 1;">
+
+- 🎓 B.Tech in Computer Science Engineering from **BVCOE, New Delhi**  
+- 🧠 Currently pursuing M.Tech in **Machine Learning & AI** at **BITS Pilani**  
+- 💡 Passionate about AI research, deep learning, and intelligent automation  
+- 💻 Skilled in Python, Java, Spring Boot, Django, Angular, Playwright, Selenium  
+- ✍️ Active blogger on ML and Python, mentor to juniors  
+- 🪄 Superpower: Turning bugs into features (sometimes intentionally)  
+
+</div>
+
+</div>
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=IshaBansal0408&theme=dark&hide_border=true"/>
-<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&theme=vision-friendly-dark"/> -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,django,spring,angular,selenium,playwright,git,html,css,mysql" alt="Tech Stack Icons" />
 </p>
+
+---
+
+## Connect with Me
+
+- Email: [isha.bansal1504@gmail.com](mailto:isha.bansal1504@gmail.com)  
+- LinkedIn: [linkedin.com/in/isha-bansal-433514180](https://www.linkedin.com/in/isha-bansal-433514180/)  
+- GitHub: [github.com/IshaBansal0408](https://github.com/IshaBansal0408)  
+- Portfolio: [isha-bansal.netlify.app](https://isha-bansal.netlify.app/)  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&count_private=true&theme=radical" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IshaBansal0408&theme=dark&hide_border=true" height="150" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&langs_count=10&theme=vision-friendly-dark" height="150" alt="Top Languages"/>
+</p>
+
+---
+
+## Contribution Heatmap
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IshaBansal0408/IshaBansal0408/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Heatmap"/>
+</p>
+
+---
+
+## A Little Fun Corner 😄
+
+> "I write code that sometimes compiles on the first try... just kidding, that never happens."  
+>  
+> Debugging: where you spend 90% of your time fixing 10% of your code.  
+>  
+> Coffee: because adulting is hard and coding is harder.  
+>  
+> *PS: If you find bugs in my code, please send coffee as a bribe.* ☕😉
+
+---
