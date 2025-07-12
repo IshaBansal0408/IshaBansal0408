@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&count_private=true&theme=radical" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IshaBansal0408&theme=dark&hide_border=true" height="150" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=IshaBansal0408&theme=dark&hide_border=true" height="150" alt="GitHub Streak"/> -->
 </p>
 
 ---
